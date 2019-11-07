@@ -3,3 +3,7 @@ twee
 drie
 vier
 vijf
+zes
+zeven
+acht
+negen
